@@ -12,12 +12,13 @@ dsa/
     ├── BigONotation.md
 ├── estruturas-de-dados/
 │   ├── arrays/
+       ├── Array.md
 │   ├── listas-ligadas/
 │   ├── pilhas-e-filas/
 │   ├── arvores/
 │   ├── grafos/
 │   └── tabelas-hash/
-└── algoritmos/
+└── algoritmos/sdasdads
     ├── busca/
     ├── ordenacao/
     ├── recursao/
@@ -30,7 +31,7 @@ dsa/
 
 ### Estruturas de Dados
 - [X] Big O Notation
-- [ ] Arrays & Strings
+- [X] Arrays 
 - [ ] Listas Ligadas (Linked Lists)
 - [ ] Pilhas (Stacks) e Filas (Queues)
 - [ ] Árvores Binárias & BST
