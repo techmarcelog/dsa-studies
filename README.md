@@ -13,7 +13,7 @@ dsa/
 ├── estruturas-de-dados/
     ├── Array.md
 │   ├── LinkedLIst.md
-│   ├── pilhas-e-filas/
+│   ├── Queue.md
 │   ├── arvores/
 │   ├── grafos/
 │   └── tabelas-hash/
@@ -32,7 +32,8 @@ dsa/
 - [X] Big O Notation
 - [X] Arrays 
 - [X] Linked Lists
-- [ ] Pilhas (Stacks) e Filas (Queues)
+- [X] Queue
+- [ ] Stack
 - [ ] Árvores Binárias & BST
 - [ ] Heaps
 - [ ] Grafos
