@@ -11,9 +11,8 @@ dsa/
 ├── conceitos/
     ├── BigONotation.md
 ├── estruturas-de-dados/
-│   ├── arrays/
-       ├── Array.md
-│   ├── listas-ligadas/
+    ├── Array.md
+│   ├── LinkedLIst.md
 │   ├── pilhas-e-filas/
 │   ├── arvores/
 │   ├── grafos/
@@ -32,7 +31,7 @@ dsa/
 ### Estruturas de Dados
 - [X] Big O Notation
 - [X] Arrays 
-- [ ] Listas Ligadas (Linked Lists)
+- [X] Linked Lists
 - [ ] Pilhas (Stacks) e Filas (Queues)
 - [ ] Árvores Binárias & BST
 - [ ] Heaps
