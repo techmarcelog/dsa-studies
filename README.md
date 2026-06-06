@@ -17,6 +17,7 @@ dsa/
 │   ├── 3. Queue.md
 │   ├── 4. Stack.md
 │   ├── 5. BinaryTree.md
+│   ├── 6. HashMap.md
 │   ├── grafos/
 │   └── tabelas-hash/
 └── algoritmos/sdasdads
@@ -40,9 +41,9 @@ dsa/
 - [X] Queue
 - [X] Stack
 - [X] Binary Tree
+- [X] HashMap
 - [ ] Heaps
 - [ ] Grafos
-- [ ] Tabelas Hash
 
 ### Algoritmos
 - [ ] Busca Binária
