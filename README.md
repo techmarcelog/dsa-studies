@@ -11,11 +11,11 @@ dsa/
 ├── conceitos/
     ├── BigONotation.md
 ├── estruturas-de-dados/
-    ├── Array.md
-│   ├── LinkedLIst.md
-│   ├── Queue.md
-│   ├── Stack.md
-│   ├── arvores/
+    ├── 1. Array.md
+│   ├── 2. LinkedLIst.md
+│   ├── 3. Queue.md
+│   ├── 4. Stack.md
+│   ├── 5. BinaryTree.md
 │   ├── grafos/
 │   └── tabelas-hash/
 └── algoritmos/sdasdads
@@ -35,7 +35,7 @@ dsa/
 - [X] Linked Lists
 - [X] Queue
 - [X] Stack
-- [ ] Árvores Binárias & BST
+- [X] Binary Tree
 - [ ] Heaps
 - [ ] Grafos
 - [ ] Tabelas Hash
