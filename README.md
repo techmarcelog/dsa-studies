@@ -10,6 +10,7 @@ Repositório pessoal com anotações, implementações e resumos sobre **Estrutu
 dsa/
 ├── conceitos/
     ├── BigONotation.md
+    ├── Cache.md
 ├── estruturas-de-dados/
     ├── 1. Array.md
 │   ├── 2. LinkedLIst.md
@@ -29,8 +30,11 @@ dsa/
 
 ## 🧠 Tópicos Estudados (Em Andamento)
 
-### Estruturas de Dados
+### Conceitos
 - [X] Big O Notation
+- [X] Cache
+
+### Estruturas de Dados
 - [X] Arrays 
 - [X] Linked Lists
 - [X] Queue
