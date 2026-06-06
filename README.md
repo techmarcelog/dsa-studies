@@ -18,8 +18,7 @@ dsa/
 │   ├── 4. Stack.md
 │   ├── 5. BinaryTree.md
 │   ├── 6. HashMap.md
-│   ├── grafos/
-│   └── tabelas-hash/
+│   ├── 7. Grafo.md
 └── algoritmos/sdasdads
     ├── busca/
     ├── ordenacao/
@@ -42,8 +41,8 @@ dsa/
 - [X] Stack
 - [X] Binary Tree
 - [X] HashMap
+- [X] Grafos
 - [ ] Heaps
-- [ ] Grafos
 
 ### Algoritmos
 - [ ] Busca Binária
