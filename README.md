@@ -14,6 +14,7 @@ dsa/
     ├── Array.md
 │   ├── LinkedLIst.md
 │   ├── Queue.md
+│   ├── Stack.md
 │   ├── arvores/
 │   ├── grafos/
 │   └── tabelas-hash/
@@ -33,7 +34,7 @@ dsa/
 - [X] Arrays 
 - [X] Linked Lists
 - [X] Queue
-- [ ] Stack
+- [X] Stack
 - [ ] Árvores Binárias & BST
 - [ ] Heaps
 - [ ] Grafos
