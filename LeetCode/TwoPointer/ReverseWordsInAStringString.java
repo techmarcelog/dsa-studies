@@ -1,4 +1,4 @@
-package problemas.TwoPointer;
+package LeetCode.TwoPointer;
 
 public class ReverseWordsInAStringString{
     public String reverseWords(String s)
