@@ -1,6 +1,6 @@
 package LeetCode.TwoPointer;
 
-public class ReverseWordsInAStringString{
+public class ReverseWordsInAString{
     public String reverseWords(String s)
     {
         String[] words = s.split(" ");
