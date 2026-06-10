@@ -7,7 +7,7 @@ Repositório pessoal com anotações, implementações e resumos sobre **Estrutu
 ## 🗂️ Estrutura (Em Andamento)
 
 ```
-dsa/
+DSA-STUDIES/
 ├── conceitos/
     ├── BigONotation.md
     ├── Cache.md
