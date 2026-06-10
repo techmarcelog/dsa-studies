@@ -8,6 +8,11 @@ Repositório pessoal com anotações, implementações e resumos sobre **Estrutu
 
 ```
 DSA-STUDIES/
+├── algoritmos/
+    ├── 1. busca
+        ├── binarysearch/
+                    ├── BinarySearch.java
+                    ├── BinarySearch.md
 ├── conceitos/
     ├── BigONotation.md
     ├── Cache.md
